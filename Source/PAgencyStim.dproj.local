@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2015.08.11 17:51:26.263.pas,C:\Users\Ignat\Documents\RAD Studio\Projects\Unit1.pas=D:\Projects\KurchWork\Shishkin\EyeGomoku\uMain.pas</Transaction>
+    <Transaction>2015.08.11 17:51:26.263.dfm,C:\Users\Ignat\Documents\RAD Studio\Projects\Unit1.dfm=D:\Projects\KurchWork\Shishkin\EyeGomoku\uMain.dfm</Transaction>
+    <Transaction>2015.08.11 17:51:45.926.dproj,C:\Users\Ignat\Documents\RAD Studio\Projects\Project1.dproj=D:\Projects\KurchWork\Shishkin\EyeGomoku\PEyeGomoku.dproj</Transaction>
+    <Transaction>2015.08.11 17:53:10.266.pas,D:\Projects\KurchWork\Shishkin\EyeGomoku\Unit1.pas=D:\Projects\KurchWork\Shishkin\EyeGomoku\uVidMode.pas</Transaction>
+    <Transaction>2015.08.11 19:39:29.789.pas,D:\Projects\KurchWork\Shishkin\EyeGomoku\Unit1.pas=D:\Projects\KurchWork\Shishkin\EyeGomoku\uCommon.pas</Transaction>
+    <Transaction>2015.08.13 16:23:49.851.pas,D:\Projects\KurchWork\Shishkin\EyeGomoku\Unit1.pas=D:\Projects\KurchWork\Shishkin\EyeGomoku\uAI.pas</Transaction>
+    <Transaction>2015.08.24 15:25:17.179.pas,D:\Projects\Shishkin\EyeGomoku\Unit1.pas=D:\Projects\Shishkin\EyeGomoku\uSettingsFm.pas</Transaction>
+    <Transaction>2015.08.24 15:25:17.179.dfm,D:\Projects\Shishkin\EyeGomoku\Unit1.dfm=D:\Projects\Shishkin\EyeGomoku\uSettingsFm.dfm</Transaction>
+    <Transaction>2015.11.13 20:27:02.688.pas,D:\Projects\Shishkin\PEyeGomoku\Source\OKCANCL2.pas=D:\Projects\Shishkin\PEyeGomoku\Source\uHasWonMsg.pas</Transaction>
+    <Transaction>2015.11.13 20:27:02.688.dfm,D:\Projects\Shishkin\PEyeGomoku\Source\OKCANCL2.dfm=D:\Projects\Shishkin\PEyeGomoku\Source\uHasWonMsg.dfm</Transaction>
+    <Transaction>2016.05.28 16:09:50.933.dproj,D:\Projects\KurchWork\AgencyExperiment\ExpProg\tmp\Source\PEyeGomoku.dproj=D:\Projects\KurchWork\AgencyExperiment\ExpProg\tmp\Source\PAgencyStim.dproj</Transaction>
+    <Transaction>2016.05.29 03:33:02.338.pas,D:\Projects\KurchWork\AgencyExperiment\ExpProg\tmp\Source\uAI.pas=</Transaction>
+    <Transaction>2016.05.29 14:40:55.362.pas,D:\Projects\KurchWork\AgencyExperiment\ExpProg\tmp\Source\Unit1.pas=D:\Projects\KurchWork\AgencyExperiment\ExpProg\tmp\Source\uJoys.pas</Transaction>
+    <Transaction>2016.05.29 22:49:43.658.pas,D:\Projects\KurchWork\AgencyExperiment\ExpProg\tmp\Source\Unit1.pas=D:\Projects\KurchWork\AgencyExperiment\ExpProg\tmp\Source\uLPT.pas</Transaction>
+    <Transaction>2016.06.28 11:49:18.277.pas,D:\Projects\KurchWork\AgencyExperiment\ExpProg\Ver51\Source\uWorkComThread.pas=</Transaction>
+    <Transaction>2016.07.12 01:58:24.692.pas,D:\Projects\KurchWork\AgencyExperiment\ExpProg\Ver52\Source\StimModule\uPlStimModule.pas=</Transaction>
+    <Transaction>2016.07.20 17:17:22.601.pas,D:\Projects\Shishkin\AgencyExperiment\ExpProg\Ver55\Source\Unit1.pas=D:\Projects\Shishkin\AgencyExperiment\ExpProg\Ver55\Source\uMainRes.pas</Transaction>
+    <Transaction>2016.08.09 19:10:00.131.pas,D:\Projects\KurchWork\AgencyExperiment\ExpProg\Ver56\Source\Unit1.pas=D:\Projects\KurchWork\AgencyExperiment\ExpProg\Ver56\Source\uSubTest.pas</Transaction>
+  </Transactions>
+</BorlandProject>
