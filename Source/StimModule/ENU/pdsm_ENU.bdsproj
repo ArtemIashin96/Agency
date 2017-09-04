@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<PersonalityInfo>
+		<Option>
+			<Option Name="Personality">W32ResourceDLL.Personality</Option>
+			<Option Name="ProjectType">ResourceDLL</Option>
+			<Option Name="Version">1.0</Option>
+			<Option Name="GUID">{4F1D0B9A-3BB4-4B5E-9D2B-69D3E63708FA}</Option>
+		</Option>
+	</PersonalityInfo>
+	<W32ResourceDLL.Personality>
+		<Source>
+			<Source Name="MainSource">pdsm.dpr</Source>
+		</Source>
+		<Options>
+			<Options Name="BaseLang">1049</Options>
+			<Options Name="TargetName">..\..\..\ready\pf\Polyconius\Diana Studio\1.0\bin\pdsm.ENU</Options>
+			<Options Name="BRCC_IncludePath"></Options>
+			<Options Name="Company"></Options>
+			<Options Name="Configuration"></Options>
+			<Options Name="Copyright"></Options>
+			<Options Name="Description"></Options>
+			<Options Name="Trademark"></Options>
+			<Options Name="Product"></Options>
+			<Options Name="ProductVersion"></Options>
+			<Options Name="Title"></Options>
+			<Options Name="FileVersion"></Options>
+			<Options Name="Evidence"></Options>
+			<Options Name="KeyFile"></Options>
+			<Options Name="KeyName"></Options>
+		</Options>
+		<FileList>
+			<File FileName="uImageForm.dfm" ContainerId="W32Form" ModuleName="uImageForm.dfm"/>
+			<File FileName="pdsm_DRC.rc" ContainerId="W32RC" ModuleName="pdsm_DRC.rc"/>
+		</FileList>
+	</W32ResourceDLL.Personality>
+</BorlandProject>

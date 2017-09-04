@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file original="C:\projects\Diana Studio\Source\Diana StimModule\uImageForm.dfm" source-language="ru-RU" target-language="en-US" datatype="delphiform" tool="ETM v10.0" ts="C:\projects\Diana Studio\Source\Diana StimModule\uImageForm.dfm">
+    <header>
+      <prop-group name="ITEHeaderProp">
+        <prop prop-type="Version">9.0</prop>
+        <prop prop-type="SelfDateTime">40417.5755092593</prop>
+        <prop prop-type="OrigDateTime">40288.5388194444</prop>
+        <prop prop-type="XlatDateTime">40288.5388194444</prop>
+        <prop prop-type="Translated">34</prop>
+        <prop prop-type="UnTranslated">0</prop>
+      </prop-group>
+    </header>
+    <body>
+      <trans-unit id="O:ImageForm.Left" resname="O:ImageForm.Left">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40402.5492939815</prop>
+          <prop prop-type="Status">1</prop>
+          <prop prop-type="Order">0</prop>
+          <prop prop-type="Type">TImageForm</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:ImageForm.Top" resname="O:ImageForm.Top">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40402.5492939815</prop>
+          <prop prop-type="Status">1</prop>
+          <prop prop-type="Order">1</prop>
+          <prop prop-type="Type">TImageForm</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:ImageForm.BorderStyle" resname="O:ImageForm.BorderStyle">
+        <source>bsNone</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40402.5492939815</prop>
+          <prop prop-type="Status">1</prop>
+          <prop prop-type="Order">2</prop>
+          <prop prop-type="Type">TImageForm</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:ImageForm.ClientHeight" resname="O:ImageForm.ClientHeight">
+        <source>392</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40402.5492939815</prop>
+          <prop prop-type="Status">1</prop>
+          <prop prop-type="Order">3</prop>
+          <prop prop-type="Type">TImageForm</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:ImageForm.ClientWidth" resname="O:ImageForm.ClientWidth">
+        <source>582</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40402.5492939815</prop>
+          <prop prop-type="Status">1</prop>
+          <prop prop-type="Order">4</prop>
+          <prop prop-type="Type">TImageForm</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:ImageForm.Color" resname="O:ImageForm.Color">
+        <source>clBtnFace</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40402.5492939815</prop>
+          <prop prop-type="Status">1</prop>
+          <prop prop-type="Order">5</prop>
+          <prop prop-type="Type">TImageForm</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:ImageForm.Font.Charset" resname="O:ImageForm.Font.Charset">
+        <source>DEFAULT_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40402.5492939815</prop>
+          <prop prop-type="Status">1</prop>
+          <prop prop-type="Order">6</prop>
+          <prop prop-type="Type">TImageForm</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:ImageForm.Font.Color" resname="O:ImageForm.Font.Color">
+        <source>clWindowText</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40402.5492939815</prop>
+          <prop prop-type="Status">1</prop>
+          <prop prop-type="Order">7</prop>
+          <prop prop-type="Type">TImageForm</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:ImageForm.Font.Height" resname="O:ImageForm.Font.Height">
+        <source>-11</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40402.5492939815</prop>
+          <prop prop-type="Status">1</prop>
+          <prop prop-type="Order">8</prop>
+          <prop prop-type="Type">TImageForm</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:ImageForm.Font.Name" resname="O:ImageForm.Font.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40402.5492939815</prop>
+          <prop prop-type="Status">1</prop>
+          <prop prop-type="Order">9</prop>
+          <prop prop-type="Type">TImageForm</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:ImageForm.Font.Style" resname="O:ImageForm.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40402.5492939815</prop>
+          <prop prop-type="Status">1</prop>
+          <prop prop-type="Order">10</prop>
+          <prop prop-type="Type">TImageForm</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:ImageForm.FormStyle" resname="O:ImageForm.FormStyle">
+        <source>fsStayOnTop</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40402.5492939815</prop>
+          <prop prop-type="Status">1</prop>
+          <prop prop-type="Order">11</prop>
+          <prop prop-type="Type">TImageForm</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:ImageForm.OldCreateOrder" resname="O:ImageForm.OldCreateOrder">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40402.5492939815</prop>
+          <prop prop-type="Status">1</prop>
+          <prop prop-type="Order">12</prop>
+          <prop prop-type="Type">TImageForm</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:ImageForm.Position" resname="O:ImageForm.Position">
+        <source>poMainFormCenter</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40402.5492939815</prop>
+          <prop prop-type="Status">1</prop>
+          <prop prop-type="Order">13</prop>
+          <prop prop-type="Type">TImageForm</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:ImageForm.PixelsPerInch" resname="O:ImageForm.PixelsPerInch">
+        <source>96</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40402.5492939815</prop>
+          <prop prop-type="Status">1</prop>
+          <prop prop-type="Order">14</prop>
+          <prop prop-type="Type">TImageForm</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:ImageForm.TextHeight" resname="O:ImageForm.TextHeight">
+        <source>13</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40402.5492939815</prop>
+          <prop prop-type="Status">1</prop>
+          <prop prop-type="Order">15</prop>
+          <prop prop-type="Type">TImageForm</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:ImageForm.O:imgImage.Left" resname="O:ImageForm.O:imgImage.Left">
+        <source>-8</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40402.5492939815</prop>
+          <prop prop-type="Status">1</prop>
+          <prop prop-type="Order">16</prop>
+          <prop prop-type="Type">TImage</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:ImageForm.O:imgImage.Top" resname="O:ImageForm.O:imgImage.Top">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40402.5492939815</prop>
+          <prop prop-type="Status">1</prop>
+          <prop prop-type="Order">17</prop>
+          <prop prop-type="Type">TImage</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:ImageForm.O:imgImage.Width" resname="O:ImageForm.O:imgImage.Width">
+        <source>209</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40402.5492939815</prop>
+          <prop prop-type="Status">1</prop>
+          <prop prop-type="Order">18</prop>
+          <prop prop-type="Type">TImage</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:ImageForm.O:imgImage.Height" resname="O:ImageForm.O:imgImage.Height">
+        <source>105</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40402.5492939815</prop>
+          <prop prop-type="Status">1</prop>
+          <prop prop-type="Order">19</prop>
+          <prop prop-type="Type">TImage</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:ImageForm.O:imgImage.Center" resname="O:ImageForm.O:imgImage.Center">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40402.5492939815</prop>
+          <prop prop-type="Status">1</prop>
+          <prop prop-type="Order">20</prop>
+          <prop prop-type="Type">TImage</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:ImageForm.O:imgImage.Proportional" resname="O:ImageForm.O:imgImage.Proportional">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40402.5492939815</prop>
+          <prop prop-type="Status">1</prop>
+          <prop prop-type="Order">21</prop>
+          <prop prop-type="Type">TImage</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:ImageForm.O:imgImage.Stretch" resname="O:ImageForm.O:imgImage.Stretch">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40402.5492939815</prop>
+          <prop prop-type="Status">1</prop>
+          <prop prop-type="Order">22</prop>
+          <prop prop-type="Type">TImage</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:ImageForm.O:imgImage.Visible" resname="O:ImageForm.O:imgImage.Visible">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40402.5492939815</prop>
+          <prop prop-type="Status">1</prop>
+          <prop prop-type="Order">23</prop>
+          <prop prop-type="Type">TImage</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:ImageForm.O:pbImage.Left" resname="O:ImageForm.O:pbImage.Left">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40402.5492939815</prop>
+          <prop prop-type="Status">1</prop>
+          <prop prop-type="Order">24</prop>
+          <prop prop-type="Type">TPaintBox</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:ImageForm.O:pbImage.Top" resname="O:ImageForm.O:pbImage.Top">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40402.5492939815</prop>
+          <prop prop-type="Status">1</prop>
+          <prop prop-type="Order">25</prop>
+          <prop prop-type="Type">TPaintBox</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:ImageForm.O:pbImage.Width" resname="O:ImageForm.O:pbImage.Width">
+        <source>582</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40402.5492939815</prop>
+          <prop prop-type="Status">1</prop>
+          <prop prop-type="Order">26</prop>
+          <prop prop-type="Type">TPaintBox</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:ImageForm.O:pbImage.Height" resname="O:ImageForm.O:pbImage.Height">
+        <source>392</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40402.5492939815</prop>
+          <prop prop-type="Status">1</prop>
+          <prop prop-type="Order">27</prop>
+          <prop prop-type="Type">TPaintBox</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:ImageForm.O:pbImage.Align" resname="O:ImageForm.O:pbImage.Align">
+        <source>alClient</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40402.5492939815</prop>
+          <prop prop-type="Status">1</prop>
+          <prop prop-type="Order">28</prop>
+          <prop prop-type="Type">TPaintBox</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:ImageForm.O:pbImage.OnPaint" resname="O:ImageForm.O:pbImage.OnPaint">
+        <source>pbImagePaint</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40402.5492941551</prop>
+          <prop prop-type="Status">1</prop>
+          <prop prop-type="Order">29</prop>
+          <prop prop-type="Type">TPaintBox</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:ImageForm.O:pbImage.ExplicitLeft" resname="O:ImageForm.O:pbImage.ExplicitLeft">
+        <source>264</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40402.5492941551</prop>
+          <prop prop-type="Status">1</prop>
+          <prop prop-type="Order">30</prop>
+          <prop prop-type="Type">TPaintBox</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:ImageForm.O:pbImage.ExplicitTop" resname="O:ImageForm.O:pbImage.ExplicitTop">
+        <source>176</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40402.5492941551</prop>
+          <prop prop-type="Status">1</prop>
+          <prop prop-type="Order">31</prop>
+          <prop prop-type="Type">TPaintBox</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:ImageForm.O:pbImage.ExplicitWidth" resname="O:ImageForm.O:pbImage.ExplicitWidth">
+        <source>105</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40402.5492941551</prop>
+          <prop prop-type="Status">1</prop>
+          <prop prop-type="Order">32</prop>
+          <prop prop-type="Type">TPaintBox</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:ImageForm.O:pbImage.ExplicitHeight" resname="O:ImageForm.O:pbImage.ExplicitHeight">
+        <source>105</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">40402.5492941551</prop>
+          <prop prop-type="Status">1</prop>
+          <prop prop-type="Order">33</prop>
+          <prop prop-type="Type">TPaintBox</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
