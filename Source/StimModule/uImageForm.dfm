@@ -1,0 +1,40 @@
+object ImageForm: TImageForm
+  Left = 0
+  Top = 0
+  BorderStyle = bsNone
+  ClientHeight = 392
+  ClientWidth = 582
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  FormStyle = fsStayOnTop
+  OldCreateOrder = False
+  Position = poMainFormCenter
+  PixelsPerInch = 96
+  TextHeight = 13
+  object imgImage: TImage
+    Left = -8
+    Top = 8
+    Width = 209
+    Height = 105
+    Center = True
+    Proportional = True
+    Stretch = True
+    Visible = False
+  end
+  object pbImage: TPaintBox
+    Left = 0
+    Top = 0
+    Width = 582
+    Height = 392
+    Align = alClient
+    OnPaint = pbImagePaint
+    ExplicitLeft = 264
+    ExplicitTop = 176
+    ExplicitWidth = 105
+    ExplicitHeight = 105
+  end
+end
